@@ -1,0 +1,419 @@
+@keyframes flip-wave-0 {
+	5% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	10% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+0) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-0;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-1 {
+	10% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	15% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+1) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-1;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-2 {
+	15% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	20% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+2) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-2;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-3 {
+	20% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	25% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+3) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-3;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-4 {
+	25% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	30% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+4) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-4;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-5 {
+	30% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	35% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+5) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-5;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-6 {
+	35% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	40% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+6) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-6;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-7 {
+	40% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	45% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+7) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-7;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-8 {
+	45% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	50% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+8) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-8;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-9 {
+	50% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	55% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+9) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-9;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-10 {
+	55% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	60% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+10) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-10;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-11 {
+	60% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	65% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+11) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-11;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-12 {
+	65% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	70% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+12) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-12;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-13 {
+	70% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	75% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+13) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-13;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-14 {
+	75% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	80% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+14) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-14;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-15 {
+	80% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	85% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+15) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-15;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-60 {
+	85% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	90% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+16) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-60;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-17 {
+	90% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	95% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+17) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-17;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-18 {
+	95% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+18) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-18;
+	animation-iteration-count: infinite
+}
+
+@keyframes flip-wave-19 {
+	100% {
+		transform: translate3d(0, -60px, 0) rotate(720deg)
+	}
+
+	105% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+
+	100% {
+		transform: translate3d(0, 0, 0) rotate(720deg)
+	}
+}
+
+.txtwav.flip :nth-child(20n+19) {
+	display: inline-block;
+	animation-duration: 4s;
+	animation-name: flip-wave-19;
+	animation-iteration-count: infinite
+}
